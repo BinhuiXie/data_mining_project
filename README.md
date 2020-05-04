@@ -1,7 +1,7 @@
 ## Datasets
 
+- [Consumer & Visitor Insights For Neighborhoods](https://www.kaggle.com/safegraph/visit-patterns-by-census-block-group)
 - [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
-- [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
 
 ## 数据分析要求
 
